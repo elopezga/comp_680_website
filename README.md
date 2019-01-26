@@ -7,5 +7,7 @@ Here you will find all material relating to the project and seminar. Thank you f
 - Ashot Chobanyan
 
 ### Project Info
+Coming soon!
 
 ### Seminar Info
+Coming soon!
