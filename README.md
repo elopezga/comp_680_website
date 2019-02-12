@@ -3,11 +3,9 @@ Here you will find all material relating to the project and seminar. Thank you f
 
 ### Team Info
 - Edgar Lopez-Garcia [github](https://github.com/elopezga) [✉](mailto:edgar.lopezgarcia.266@my.csun.edu)
-- Khitab Anand
 - Ashot Chobanyan
 
 ### Project Info
-Coming soon!
 
 ### Seminar Info
-Coming soon!
+- [Seminar Proposal](https://drive.google.com/open?id=1o9H5x5l8ayeybC707sEPGCTtCuANhaYM0nsW1H_dhoM)
