@@ -6,7 +6,13 @@ Here you will find all material relating to the project and seminar. Thank you f
 - Ashot Chobanyan
 
 ### Project Info
-- [Project Proposal](https://drive.google.com/open?id=1kKlcX0FmQh5nJBD51Kiygp46bkaFNCxU_KNAf0mPjiA)
+[Project Proposal](/Assets/Reports/Project_Proposal_Team_3)
+
+[Week 4 Progress Report](/Assets/Reports/Week04_PR_Sp_2019_Tteam_no.xlsx)
+
+[Week 5 Progress Report](/Assets/Reports/Week05_PR_Sp_2019_Tteam_no.xlsx)
+
+[Week 6 Progress Report](/Assets/Reports/Week06_PR_Sp_2019_Tteam_no.xlsx)
 
 ### Seminar Info
-- [Seminar Proposal](https://drive.google.com/open?id=1o9H5x5l8ayeybC707sEPGCTtCuANhaYM0nsW1H_dhoM)
+[Seminar Proposal](/Assets/Reports/Seminar_Proposal_Team_3)
