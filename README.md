@@ -6,7 +6,7 @@ Here you will find all material relating to the project and seminar. Thank you f
 - Ashot Chobanyan
 
 ### Project Info
-[Project Proposal](/Assets/Reports/Project_Proposal_Team_3)
+[Project Proposal](/Assets/Reports/Project_Proposal_Team_3.pdf)
 
 [Week 4 Progress Report](/Assets/Reports/Week04_PR_Sp_2019_Tteam_no.xlsx)
 
@@ -15,4 +15,4 @@ Here you will find all material relating to the project and seminar. Thank you f
 [Week 6 Progress Report](/Assets/Reports/Week06_PR_Sp_2019_Tteam_no.xlsx)
 
 ### Seminar Info
-[Seminar Proposal](/Assets/Reports/Seminar_Proposal_Team_3)
+[Seminar Proposal](/Assets/Reports/Seminar_Proposal_Team_3.pdf)
