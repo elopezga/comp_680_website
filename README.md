@@ -1,4 +1,4 @@
-## [Welcome to COMP 680 Website!](https://elopezga.github.io/comp_680_website/)
+## [Welcome to Team 3 COMP 680 Website (Spring 2019)!](https://elopezga.github.io/comp_680_website/)
 Here you will find all material relating to the project and seminar. Thank you for visiting 😄.
 
 ### Team Info
