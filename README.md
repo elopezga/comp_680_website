@@ -14,5 +14,27 @@ Here you will find all material relating to the project and seminar. Thank you f
 
 [Week 6 Progress Report](/Assets/Reports/Week06_PR_Sp_2019_Tteam_no.xlsx)
 
+[Project Presentation 1]()
+
+[Week 9 Progress Report](/Assets/Reports/Week09_PR-Sp_2019_Tteam_3.xlsx)
+
+[Week 10 Progress Report](/Assets/Reports/Week10_PR-Sp_2019_Tteam_3.xlsx)
+
+[Week 11 Progress Report](/Assets/Reports/Week11_PR-Sp_2019_Tteam_3.xlsx)
+
+[Week 12 Progress Report](/Assets/Reports/Week12_PR-Sp_2019_Tteam_3.xlsx)
+
+[Week 13 Progress Report](/Assets/Reports/Week13_PR-Sp_2019_Tteam_3.xlsx)
+
+[Week 14 Progress Report](/Assets/Reports/Week14_PR-Sp_2019_Tteam_3.xlsx)
+
+[Project Presentation 2]()
+
 ### Seminar Info
 [Seminar Proposal](/Assets/Reports/Seminar_Proposal_Team_3.pdf)
+
+[Seminar Presentation 1]()
+
+[Seminar Presentation 2]()
+
+[Seminar Final Paper]()
